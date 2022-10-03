@@ -3,7 +3,7 @@
 int main() {
 	int i;
 	for(i=0;i<10;i++) {
-		printf("Hello DevOps ! \n");
+		printf("Hello DevOps - from m2i ! \n");
 		sleep(3);
 	}
 	return 0;
